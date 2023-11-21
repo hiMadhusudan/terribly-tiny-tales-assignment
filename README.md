@@ -1,6 +1,8 @@
 # Getting Started with Create React App
-# Click the below link to check the hosted website on netlify 
+# Click the below link to check the hosted website
 # https://ttta.himadhusudan.com/
+![image](https://github.com/hiMadhusudan/terribly-tiny-tales-assignment/assets/76695160/a9a02b10-92c4-4235-8915-f988410699f3)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
